@@ -1,0 +1,6 @@
+interface:
+  display_name: "Manuscript Workflow Manager"
+  short_description: "Choose next steps and coordinate manuscript work"
+  default_prompt: "Use $manuscript-workflow to assess the current manuscript state, select the next step and continue under the established interaction mode."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Manuscript Storyline"
+  short_description: "Plan the scientific argument and Results order"
+  default_prompt: "Use $manuscript-storyline to build an evidence-backed scientific storyline and Results architecture, reusing the established review mode."
+policy:
+  allow_implicit_invocation: true

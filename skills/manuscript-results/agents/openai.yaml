@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manuscript Results"
+  short_description: "Develop evidence-based Results sections"
+  default_prompt: "Use $manuscript-results to develop or revise the requested Results section from the retained evidence and accepted storyline."

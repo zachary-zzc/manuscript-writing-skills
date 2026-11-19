@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manuscript Abstract and Title"
+  short_description: "Draft and refine manuscript titles and abstracts"
+  default_prompt: "Use $manuscript-abstract to draft or revise my manuscript title and Abstract within the accepted evidence and writing mode."

@@ -1,0 +1,19 @@
+# Optional source checkouts for skills referenced by this package.
+# The main package remains usable without these submodules.
+version: 1
+repositories:
+  - name: nature-skills
+    url: https://github.com/Yuan1z0825/nature-skills.git
+    path: external/nature-skills
+    role: source reference for selected Nature writing, data, statistics, figure, and response guidance
+    pinned_reference: 4a04b953c13c57adc51e202ce296597f00d29d67
+  - name: figures4papers
+    url: https://github.com/ChenLiu-1996/figures4papers.git
+    path: external/figures4papers
+    role: source reference for the adapted manuscript figure-making guidance
+    pinned_reference: main
+  - name: FigGenie
+    url: https://github.com/Sleepy-Avacado/FigGenie.git
+    path: external/FigGenie
+    role: credited workflow reference for schematic figure guidance
+    pinned_reference: main

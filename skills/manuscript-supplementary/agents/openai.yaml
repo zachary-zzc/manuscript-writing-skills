@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manuscript Supplementary Information"
+  short_description: "Organise supporting manuscript evidence"
+  default_prompt: "Use $manuscript-supplementary to organise or revise the supporting evidence for my manuscript without duplicating its main argument."

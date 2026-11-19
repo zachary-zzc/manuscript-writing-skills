@@ -1,0 +1,6 @@
+interface:
+  display_name: "Manuscript Audit"
+  short_description: "Audit manuscript claims, evidence and consistency"
+  default_prompt: "Use $manuscript-audit to audit this manuscript at the requested scope, reusing the established review mode and reporting verified findings separately from evidence gaps."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manuscript Discussion"
+  short_description: "Interpret findings and write supported implications"
+  default_prompt: "Use $manuscript-discussion to revise my Discussion into an evidence-supported synthesis with specific limitations and implications."

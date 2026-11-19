@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manuscript Introduction"
+  short_description: "Build a clear scientific Introduction argument"
+  default_prompt: "Use $manuscript-introduction to draft or revise my Introduction around the accepted scientific problem and contribution."

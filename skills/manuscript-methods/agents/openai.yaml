@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manuscript Methods"
+  short_description: "Describe reproducible scientific procedures"
+  default_prompt: "Use $manuscript-methods to draft or revise the requested Methods from the actual study records and central results."

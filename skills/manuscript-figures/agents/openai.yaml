@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manuscript Figures"
+  short_description: "Create manuscript figures, tables and captions"
+  default_prompt: "Use $manuscript-figures to create or revise these manuscript figures, tables and captions from the source evidence."
