@@ -105,6 +105,7 @@ skills/
 ├── manuscript-storyline/
 ├── manuscript-supplementary/
 ├── manuscript-workflow/
+├── nature-reviewer/
 └── nature-shared/
 ```
 
