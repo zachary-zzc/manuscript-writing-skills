@@ -5,7 +5,7 @@ description: "Draft, restructure, revise, translate or polish manuscript Supplem
 
 # Manuscript Supplementary Information
 
-Work on the requested Supplementary Information or supporting unit within the accepted scientific argument. Preserve bounded scope: a local revision, translation or polish does not require rebuilding the section or paper. Generic prose polishing is handled by [manuscript-polishing](../manuscript-polishing/SKILL.md); whole-manuscript coordination is handled by [manuscript-workflow](../manuscript-workflow/SKILL.md).
+Work on the requested Supplementary Information or supporting unit within the accepted scientific argument. For a new or full manuscript, this owner is the mandatory H9S stage even when the user did not explicitly request SI. Preserve bounded scope for local revisions. Generic prose polishing is handled by [manuscript-polishing](../manuscript-polishing/SKILL.md); whole-manuscript coordination is handled by [manuscript-workflow](../manuscript-workflow/SKILL.md).
 
 ## Hard rules for manuscript narrative
 
@@ -17,8 +17,14 @@ Read the shared [interaction contract](../manuscript-workflow/references/contrac
 
 Read [section.md](references/section.md), the shared [writing style](../manuscript-workflow/references/writing-style.md), and the scoped [paragraph review](../manuscript-workflow/references/paragraph-review.md). Apply full-draft requirements only at their stated scope; the section reference preserves author overrides and binding-format conflicts.
 
-For captions and tables in scope, read [captions-tables.md](../manuscript-figures/references/captions-tables.md). Use the figure skill only when figure work is requested or needed; preparing SI prose does not imply generating figures.
+For captions and tables in scope, read [captions-tables.md](../manuscript-figures/references/captions-tables.md). Supplementary figures and tables use the same H5/H6 figure workflow and final-size visual audit as main displays. Use the shared terminology table for SI headings, labels, captions, table headers and main-text callouts. Preparing SI prose does not remove the requirement to inspect and link its displays.
 
-Organise retained supporting material around main-text claims. Preserve original instruments, keep central scientific meaning in the main text and reconcile the relevant callouts, numbering and assets.
+## Mandatory Supplementary Information gate (H9S)
+
+For every new or full manuscript, create an SI inventory and outline after the Results and figure set stabilize. Cover supporting analyses, protocols, source data, supplementary figures and tables, negative or robustness results, captions, references, declarations, assets and the main-text claim or method each item supports. Each retained item must have a stable SI identifier and a main-text callout, or an evidence-based N/A reason. Reject orphan panels, duplicated main figures, unsupported material and unexplained engineering logs.
+
+Compile the SI source into the target format as an independent deliverable. Inspect every SI page and supplementary display, including numbering, captions, cross-references, citations, typography, page fit, source-data links and main-text agreement. A full manuscript cannot pass H9S when SI is missing, only outlined, uncompiled, uninspected or silently folded into Methods. If the article type and verified target format genuinely require no SI, record that decision and its evidence in the workflow state.
+
+Organise retained supporting material around main-text claims. In full-manuscript production, expand final Supplementary Information after the Results and figure set stabilize and before Discussion and final Abstract/title. Preserve original instruments, keep central scientific meaning in the main text and reconcile the relevant callouts, numbering and assets.
 
 Verify support coverage, faithful instruments, citation support and the agreement of callouts, appearance order, printed numbers and assets. Distinguish unknown author facts from recoverable evidence. Apply the contract’s review checkpoints to the requested unit, recheck affected dependencies and report only the verification actually completed.

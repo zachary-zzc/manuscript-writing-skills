@@ -13,7 +13,7 @@ Apply the **Editorial Guideline (mandatory default)** in [release narrative and 
 
 For Nature or Nature Portfolio targets, follow the [canonical Nature integration map](../manuscript-workflow/references/nature-integration.md) and load only the relevant `nature-shared` reference; this manuscript skill remains the owner.
 
-Read [audit.md](references/audit.md) for the checks warranted by the scope. Before a full audit or substantive whole-manuscript revision, complete its whole-manuscript diagnostic and coverage ledger. A bounded edit instead uses the [shared paragraph review](../manuscript-workflow/references/paragraph-review.md) and only necessary evidence/dependency checks. Audit depth is independent of Easy/Normal/Expert supervision.
+Read [audit.md](references/audit.md) for the checks warranted by the scope. Before a full audit or substantive whole-manuscript revision, complete its whole-manuscript diagnostic and coverage ledger. For a new or full manuscript, run the multi-pass audit after H1–H4, after each H7 figure-linked Results unit, after H9S Supplementary Information, after H8–H11 and again at H12. A bounded edit instead uses the [shared paragraph review](../manuscript-workflow/references/paragraph-review.md) and only necessary evidence/dependency checks. Audit depth is independent of Easy/Normal/Expert supervision.
 
 For statistical analyses and inference in scope, read [statistical-reporting.md](references/statistical-reporting.md). For availability statements, data-sharing plans or submission packages whose data/code access is in scope, read [data-availability.md](references/data-availability.md). Load only the matching reference; neither introduces new experiments, deposits or review checkpoints.
 

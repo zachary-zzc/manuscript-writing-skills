@@ -7,6 +7,8 @@ description: "Plan or restructure a scientific manuscript argument from actual e
 
 Read the [shared manuscript contract](../manuscript-workflow/references/contract.md) directly and reuse the continuing task's mode, sources, accepted decisions and scope. Do not invoke the coordinator or restart mode selection when these are established.
 
+For a new or full manuscript, this owner receives work only after the manuscript-workflow H0 gate has established the target format, evidence inventory and working record. It owns H1–H4 and does not independently start full prose.
+
 ## Hard rules for manuscript narrative
 
 Apply the **Editorial Guideline (mandatory default)** in [release narrative and defensive-writing rules](../manuscript-workflow/references/release-narrative-rules.md) before drafting, restructuring, polishing, auditing, or reviewing. They are hard defaults, with special priority for manuscript writing, storyline, idea framing, and innovation claims. When the user supplies manuscript text, perform the required point-by-point defensive-writing audit and give a concrete rewrite for every instance. Preserve material limitations, negative findings, uncertainty, ethics, safety, and reproducibility boundaries as precise evidence or scope statements.

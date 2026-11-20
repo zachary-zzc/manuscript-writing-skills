@@ -17,6 +17,6 @@ Read the shared [interaction contract](../manuscript-workflow/references/contrac
 
 Read [section.md](references/section.md), the shared [writing style](../manuscript-workflow/references/writing-style.md), and the scoped [paragraph review](../manuscript-workflow/references/paragraph-review.md). Apply full-draft requirements only at their stated scope; the section reference preserves author overrides and binding-format conflicts.
 
-Use the accepted storyline, problem–contribution–evidence map and verified literature. Develop the need before the proposed solution and retain the scope of the actual contribution.
+Use the accepted storyline, problem–contribution–evidence map, stabilized Results and verified literature. In full-manuscript production, draft Introduction after H7 Results and figure iteration. Use the shared terminology table for field labels, study objects, comparators and contribution terms, updating first-use locations and scope decisions. Develop the need before the proposed solution, attach each externally verifiable background or drawback claim to the citation ledger and retain the scope of the actual contribution.
 
 Verify each paragraph’s argumentative role, support for prior-work drawbacks, scope concordance and the applicable word and paragraph requirements from the section reference. Apply the contract’s review checkpoints to the requested unit, recheck affected dependencies and report only the verification actually completed.

@@ -13,6 +13,12 @@ Apply the **Editorial Guideline (mandatory default)** in [release narrative and 
 
 For Nature or Nature Portfolio targets, follow the [canonical Nature integration map](../manuscript-workflow/references/nature-integration.md) and load only the relevant `nature-shared` reference; this manuscript skill remains the owner.
 
+## Figure gate for a new or full manuscript
+
+For a new or full manuscript, enter the figure workflow after H4 and before Results prose is treated as complete. Build a claim–panel–data/artwork storyboard that records the panel duty, retained source, comparison, encoding, takeaway, caption and main/SI allocation. Use the shared terminology table for panel labels, axis terms, legend entries, captions, table headers and in-text callouts. For empirical or quantitative evidence, produce representative H6 prototypes from retained evaluated outputs and inspect them at final manuscript size before extending a visual language across the figure set.
+
+Iterate design from the evidence structure. Review at least one credible alternative whenever the visual form, panel composition or encoding is consequential. Quantitative plots must use retained data and reproducible local code or an editable data-linked source. Synthetic, random or illustrative data may appear only in an explicitly labelled layout mockup and never as submission evidence. Every finished display requires source/provenance, script or editable artwork, complete caption, in-text callout and the four-layer audit. If a study genuinely has no displayable evidence, record an evidence-based N/A rationale in the workflow state. Do not silently omit figures or generate a result-looking image to fill a template.
+
 Load only the guidance needed for the requested display work:
 
 - For figure-set planning, new artwork or a substantive redesign, read [scientific figure generation](references/figures.md). Preserve the source evidence, evaluated originals, accepted typography and actual target venue.

@@ -32,4 +32,10 @@ A missing Crossref record or failed request is not proof of an invalid DOI. Chec
 
 When exporting BibTeX/RIS or another requested format, preserve structured author names/order and corporate authors; do not reconstruct a full list from an abbreviated display citation. Leave unknown fields explicit or absent rather than invent them. Inspect the resulting records and applicable import syntax before claiming readiness. Produce the requested local correction/export; external reference-library writes require their own authorization.
 
+## Citation gate for a new or full manuscript
+
+Before H2/H8 drafting, create one claim–source ledger for background, motivating drawbacks, method-dependent claims, novelty statements and interpretation that depends on prior work. Each externally verifiable claim must have an inspected primary or authoritative source and a stated support scope. Distinguish metadata, abstract and full-text inspection. Missing or unverified support remains **BLOCKED** and cannot be replaced by a placeholder citation, invented DOI, copied reference number or citation to a neighbouring stronger claim.
+
+At H12, reconcile every citation callout with the ledger and compiled bibliography. Check unresolved keys, duplicates, missing records, author order, publication/version, DOI, citation placement, reference style and source-to-claim coverage. A supplied reference file must be inspected for identity and support, not treated as verified because it exists.
+
 Adapted and rewritten from selected Nature guidance; see [source and integration notes](nature-integration.md).

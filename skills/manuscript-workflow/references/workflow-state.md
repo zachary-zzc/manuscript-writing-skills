@@ -1,6 +1,6 @@
 # Manuscript state and next-step selection
 
-Use this guide to manage a sustained manuscript task or answer a manuscript-specific progress/next-step question. The [shared contract](contract.md) governs evidence, scope and review modes; [workflow.md](workflow.md) defines H1–H12. A named section task can proceed directly to its owner. Do not require a workflow assessment before every sentence edit.
+Use this guide to manage a sustained manuscript task or answer a manuscript-specific progress/next-step question. The [shared contract](contract.md) governs evidence, scope and review modes; [workflow.md](workflow.md) defines H0–H12. A bounded section task can proceed directly to its owner. A request for a new, complete or cross-section manuscript must start at H0 and may not route directly to a section owner. Do not require a workflow assessment before every sentence edit.
 
 ## Recover one current state
 
@@ -11,7 +11,10 @@ Add the following information to the existing storyline/decision record when use
 | State | What to retain |
 |---|---|
 | Task | Requested deliverable and scope, authoritative source, target/format, protected material and current Easy/Normal/Expert mode with its confirmation or standing preference. |
-| Scientific baseline | Accepted question/contribution, evidence boundaries, Results architecture, terminology and comparison conditions. |
+| H0 gate | PASS, BLOCKED or N/A status and reason for format, evidence inventory, framework-record scaffold, term-table scaffold, claim–source ledger scaffold, visual/SI allocation scaffold and package plan. |
+| Framework record | Current question, contribution, drawbacks, storyline, Results architecture, claim–evidence–display–SI map, permitted inferences, decisions, unresolved facts and artifact version. |
+| Terminology table | One shared table containing canonical term, referent/unit, definition/scope, argument role, variants, distinctions, locations and decision status. Record its version and last audit, then update it across sections, displays and SI. |
+| Scientific baseline | Accepted question/contribution, evidence boundaries, Results architecture, terminology and comparison conditions after H1–H4 completion. |
 | Work units | Relevant checkpoint plus concrete unit, such as H7/Results subsection 2 or H6/Figure 3; owner skill, artifact/version, prerequisites and dependent units. |
 | Progress | Not started, in progress, draft ready, needs revision, blocked or complete; identify the missing input or required decision for a blocked unit. |
 | Decisions | Agent-selected, awaiting author decision, author-confirmed, or review waived by an explicit scoped instruction. Preserve the scope and version of each decision. |
@@ -30,33 +33,35 @@ Apply these decisions in order, using the evidence already available:
 3. **Diagnose a whole-manuscript revision before rewriting.** If a requested full or substantive whole-paper revision has not received its required baseline structure/paragraph diagnosis, select manuscript-audit. A bounded edit needs targeted checks instead. Reuse that diagnosis and resolved findings during the revision; subsequent section edits refresh affected checks, not the whole audit merely because the source version changed.
 4. **Check the requested unit's prerequisites.** Recover missing data, protocols, accepted decisions or source artifacts from accessible materials. If an essential dependency remains unavailable, identify it precisely and keep only dependent work pending. Complete other authorized independent work when useful. Never invent evidence, launch new experiments or turn a review decision into an assumed answer.
 5. **Resolve the applicable review boundary.** If a decision is pending, finish the independent preparation needed to present a concrete artifact, then request the decision under the confirmed mode. Do not apply dependent prose merely because an outline was accepted. Easy has no ordinary manuscript-review stops; a separate action-specific restriction remains effective if actually established.
-6. **Choose ready work by scientific dependency.** Use the routing table below and the accepted plan. Do not advance by checkpoint number alone. Methods preparation may accompany Results; an author-requested Introduction-first order remains valid. Produce final Abstract/title candidates after the body stabilizes, while allowing an explicitly requested provisional Abstract earlier with its evidentiary limits.
+6. **Choose ready work by scientific dependency.** For new/full manuscripts, advance through H0 → H1–H4 → H5–H6 → H7 → H8 → H9M → H9S → H10 → H11 → H12. Methods records and SI inventory may be prepared alongside Results, but final Introduction, Methods, SI, Discussion and Abstract prose wait for stabilized Results and figures. A provisional artifact must be labelled and cannot satisfy the final gate.
 7. **Verify before advancing or delivering.** Route a failed check to the owner of its cause, repair within authorization and rerun the affected check. For integrated delivery, reconcile main text, SI, displays and references and complete applicable package checks. Keep scientific approval, source application, compilation and submission authorization distinct.
 
 ## Route from the actual state
 
 | Current need | Next owner and checkpoint |
 |---|---|
+| New or full manuscript has no current bootstrap record | manuscript-workflow, H0; do not route directly to a section owner. |
 | Evidence is available but contribution, supported drawbacks or argument is unresolved | manuscript-storyline, the affected part of H1–H4. |
 | Accepted findings need an evidence display or a materially changed visual approach | manuscript-figures, H5/H6; preserve authentic evaluated outputs. |
 | Accepted Results architecture has an unfinished supported subsection | manuscript-results, H7; coordinate required displays, Methods and SI. |
 | Accepted problem/contribution needs an Introduction or its logic repaired | manuscript-introduction, H8; reopen H2 only if the drawbacks materially change. |
-| Documented procedures or supporting evidence need description | manuscript-methods or manuscript-supplementary, H9. |
+| Documented procedures need description | manuscript-methods, H9M. |
+| Supporting evidence, SI figures/tables or main-text links need preparation | manuscript-supplementary, H9S; do not absorb it into Methods or skip it because no explicit SI request was made. |
 | Supported findings need interpretation, limitations or closing meaning | manuscript-discussion, H10. |
 | Headline representation needs drafting or reconciliation | manuscript-abstract, H11, with provisional/final status made clear. |
 | An unnamed-section excerpt needs only language correction | manuscript-polishing within the bounded scope. |
 | A review comment alleges a scientific or numerical error | manuscript-audit to verify the allegation if unresolved, then the affected section owner for an authorized correction. Preserve the original comment and map evidence, action, location and response. |
 | Initial-submission materials or a reviewer response are requested | manuscript-workflow with [submission-and-revision.md](submission-and-revision.md); send manuscript changes to existing section owners and package verification to manuscript-audit. |
-| Requested components are complete and need integration or final verification | manuscript-workflow with manuscript-audit, H12. |
+| Requested components are complete and need integration or final verification | manuscript-workflow with manuscript-audit, H12; main text and SI are both required deliverables when applicable. |
 
 Resolve skill paths through the [owner table](../SKILL.md#select-the-owner). Explicitly named section edits use that section's skill even when the edit is linguistic. Route captions/tables to manuscript-figures and keep interactive Crux work with its own workflow.
 
 ## Update after feedback or a specialist return
 
-Pass the owner the current artifact/source, exact unit, intended output, accepted scientific baseline, mode, protected material, dependencies and authorized edit/review boundary. Independent units may proceed in parallel when their decisions and file edits do not conflict. Keep consequential shared decisions with the coordinator.
+Pass the owner the current artifact/source, exact unit, intended output, accepted scientific baseline, framework-record version, terminology-table version, mode, protected material, dependencies and authorized edit/review boundary. Independent units may proceed in parallel when their decisions and file edits do not conflict. Keep consequential shared decisions with the coordinator.
 
-On return, inspect the artifact and check evidence; do not treat a specialist's success statement alone as verification. Update progress, decisions, source application, performed checks, unresolved inputs and the next action in the same record. Preserve the current Expert paragraph/review position across handoffs.
+On return, inspect the artifact and check evidence; do not treat a specialist's success statement alone as verification. Update progress, decisions, source application, performed checks, framework/term-table versions, unresolved inputs and the next action in the same record. Preserve the current Expert paragraph/review position across handoffs.
 
 When evidence or a substantive decision changes, trace its actual dependents. For example, a corrected denominator can affect a Results claim, its display/caption, Methods definition and Abstract number. Mark those checks stale and reopen only decisions whose meaning changes. Unaffected accepted prose remains accepted; a formatting fix does not reset the storyline. After a mode switch, reevaluate pending review boundaries without discarding artifacts or treating unanswered learning proposals as approved.
 
-For a next-step/status response, show only what helps the author proceed: **current unit → next action and owner → reason/prerequisite → pending decision, if any**. Do not print the entire tracker after every edit. For an authorized continuation, perform the selected work and update the record rather than stopping at a recommendation.
+For a next-step/status response, show only what helps the author proceed: **current unit → next action and owner → reason/prerequisite → pending decision, if any**. Do not print the entire tracker after every edit. For an authorized continuation, perform the selected work and update the record rather than stopping at a recommendation. Do not mark a full manuscript complete while any applicable H0–H12 gate, including H9S, is BLOCKED, unassessed or missing.

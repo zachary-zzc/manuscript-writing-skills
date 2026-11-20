@@ -17,6 +17,6 @@ Read the shared [interaction contract](../manuscript-workflow/references/contrac
 
 Read [section.md](references/section.md), the shared [writing style](../manuscript-workflow/references/writing-style.md), and the scoped [paragraph review](../manuscript-workflow/references/paragraph-review.md). Apply full-draft requirements only at their stated scope; the section reference preserves author overrides and binding-format conflicts.
 
-Use the accepted contribution, strongest supported findings, actual study conditions and target format. Reconcile title and headline claims with the body before finalising the requested text.
+Use the accepted contribution, strongest supported findings, actual study conditions and target format. For full-manuscript production, finalise the Abstract and title only after H7–H10 stabilize the Results, figures, Introduction, Methods, Supplementary Information and Discussion. Use the shared terminology table for headline terms, metrics, conditions and claim strength. A provisional Abstract must be explicitly labelled and cannot satisfy H11. Reconcile title and headline claims with the body before finalising the requested text.
 
 Verify the title claim map, headline numbers and conclusion against Results; check the applicable Abstract length and format from the section reference. Apply the contract’s review checkpoints to the requested unit, recheck affected dependencies and report only the verification actually completed.

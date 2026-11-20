@@ -1,6 +1,6 @@
 interface:
   display_name: "Manuscript Workflow Manager"
   short_description: "Choose next steps and coordinate manuscript work"
-  default_prompt: "Use $manuscript-workflow to assess the current manuscript state, select the next step and continue under the established interaction mode."
+  default_prompt: "Use $manuscript-workflow. For a new or full manuscript, run the H0 bootstrap gate first, then complete the H1–H4 framework record, canonical terminology table and Results architecture before H5–H6 real-data figure planning and prototypes. Continue with H7 Results and figure iteration, H8 Introduction, H9M Methods, H9S independent Supplementary Information, H10 Discussion, H11 final Abstract/title and H12 multi-pass audit and package verification. Do not draft complete prose or mark the manuscript complete while a required evidence, citation, framework, terminology, figure, format, Supplementary Information or audit gate is blocked."
 policy:
   allow_implicit_invocation: true

@@ -8,7 +8,7 @@ For sustained work coordinated by manuscript-workflow, return the current unit, 
 
 Keep the scientific question, accepted storyline, actual evidence and author intent aligned across disciplines and languages. Conditional rules about quantitative outcomes, prediction, biology, agents or people apply only when those features exist in the study. Do not add experiments, models, datasets, participants, scores or instruments to satisfy an example. A methodological contribution need not include an application-domain discovery.
 
-Use authoritative sources and preserve protected prose, artwork, raw records and evaluated outputs. Prior assistant drafts and author hypotheses are not evidence. Manuscript work does not itself authorize new experiments, historical raw-data changes or external submission. Keep one current record of scope, sources, target, language, mode, scientific message, evidence boundaries, terminology, accepted decisions and unresolved facts. Reuse an existing project record; conversation context suffices for a brief edit.
+Use authoritative sources and preserve protected prose, artwork, raw records and evaluated outputs. Prior assistant drafts and author hypotheses are not evidence. Manuscript work does not itself authorize new experiments, historical raw-data changes or external submission. Keep one current record of scope, sources, target, language, mode, scientific message, evidence boundaries, terminology, accepted decisions and unresolved facts. For a new or full manuscript, the framework record and the terminology table in [paragraph-review.md](paragraph-review.md#1-terminology-table) are the shared source of truth. Section owners update that record and table rather than creating competing glossaries or trackers. Reuse an existing project record; conversation context suffices for a brief edit.
 
 For bounded section or paragraph work, preserve the accepted argument and unaffected material. Full or substantive whole-manuscript revision requires the [manuscript audit](../../manuscript-audit/SKILL.md) before rewriting. Do not turn a bounded edit into that full lifecycle. Audit-only requests remain audits.
 
@@ -22,25 +22,30 @@ Before substantive work on a new manuscript or a new revision task, obtain an in
 
 These are writing-review modes. Expert mode does not imply that the research includes expert participants, human assessment or an intervention condition.
 
+The mode controls review granularity only. Easy, Normal and Expert all require the H0–H12 dependency gates, with H9 split into H9M Methods and H9S Supplementary Information, together with evidence and citation reconciliation, real-data figure checks, terminology and defensive-language audits, compilation and package verification. Easy may perform decisions internally, but it may not silently skip a gate or label a blocked package complete.
+
+For a new or complete research manuscript, the default production order is H0 → H1–H4 → H5–H6 → H7 Results and figure iteration → H8 Introduction → H9M Methods → H9S Supplementary Information → H10 Discussion → H11 Abstract/title → H12 integrated package. H9S is an independent deliverable. A provisional section does not satisfy its final gate.
+
 Quality is identical in all modes. Easy performs the full scientific and visual checks internally. Recover missing facts from evidence; otherwise narrow/omit unsupported claims and record unresolved author facts without invention. Deliver completed useful work with an unresolved-items statement; do not call an incomplete scientific package ready.
 
-An explicit switch confirms the new mode. A later instruction such as “show this paragraph before applying it” establishes a local review point without changing the whole mode. Entering Easy removes ordinary workflow review stops for remaining authorized work. Suspend pending learning proposals without saving or blocking manuscript work. Easy does not waive a separate action-specific restriction, such as an instruction to preserve the original source or obtain approval before external submission. Leave that restricted action pending and complete independent authorized work; do not invent such restrictions from the ordinary H1–H12 checkpoints. “Continue” in Expert advances to the next review artifact, not past all remaining reviews. A scoped batch/implementation waiver governs that scope. External submission/publication retains its own authorization.
+An explicit switch confirms the new mode. A later instruction such as “show this paragraph before applying it” establishes a local review point without changing the whole mode. Entering Easy removes ordinary workflow review stops for remaining authorized work, but never removes H0–H12 evidence, citation, figure, terminology, defensive-language, compilation or package gates. Suspend pending learning proposals without saving or blocking manuscript work. Easy does not waive a separate action-specific restriction, such as an instruction to preserve the original source or obtain approval before external submission. Leave that restricted action pending and complete independent authorized work. “Continue” in Expert advances to the next review artifact, not past all remaining reviews. A scoped batch/implementation waiver governs that scope. External submission/publication retains its own authorization.
 
 ## Review at the applicable checkpoint
 
-Easy performs all applicable H1–H12 internally. Record autonomous decisions as **agent-selected**, never **author-confirmed** merely because no question was asked.
+Easy performs all applicable H0–H12 internally. Record autonomous decisions as **agent-selected**, never **author-confirmed** merely because no question was asked.
 
 | Checkpoint | Normal review | Expert review |
 |---|---|---|
 | H1 | Principal finding, contribution, claim scope. | Candidate findings, evidence, novelty and interpretation. |
 | H2 | Supported drawback map, optionally with H3. | Each drawback, citation, consequence and experimental connection. |
-| H3 | Complete skeleton and message. | Each logical step, transition and meaningful framing alternative. |
-| H4 | Order, headings, focus and decisive evidence. | Each subsection's question, conclusion, design, comparison and role. |
-| H5 | Main/SI map and principal visual messages. | Every display, panel sequence, allocation, source and comparison. |
-| H6 | Representative prototype for a new/materially changed visual approach. | Necessary figures/panels, encodings, layout, interpretation and legends. |
+| H3 | Complete framework record, storyline, term table and main message. | Each logical step, transition, term-table distinction and meaningful framing alternative. |
+| H4 | Results order, headings, focus, decisive evidence and main/SI allocation. | Each subsection's question, conclusion, design, comparison, term-table dependency and role. |
+| H5 | Main/SI map, principal visual messages and canonical labels. | Every display, panel sequence, allocation, source, comparison and term-table dependency. |
+| H6 | Representative prototype with draft labels and legends. | Necessary figures/panels, encodings, layout, interpretation, legends and final-size readability. |
 | H7 | Each substantive subsection with displays as a unit; explicit batches allowed. | Plan, individual paragraphs/agreed small batches, panels/legends, completed section. |
 | H8 | Outline and complete Introduction. | Outline and paragraph purposes, then the complete prose preview followed by paragraph-by-paragraph confirmation. |
-| H9 | Consequential protocol/factual ambiguities and material scientific choices. | Structure, procedures, definitions, equations, statistics and SI section by section; paragraph detail where needed. |
+| H9M | Consequential protocol/factual ambiguities and material scientific choices. | Structure, procedures, definitions, equations and statistics section by section; paragraph detail where needed. |
+| H9S | SI scope, allocation and material evidence choices. | Inventory, outline, supporting analyses, SI figures/tables, captions, callouts, numbering, cross-references and compiled pages section by section; paragraph detail where needed. |
 | H10 | Consequential interpretation changes; otherwise with H12. | Argument, paragraphs, prior work, limitations and closing synthesis. |
 | H11 | Complete abstract and title choice. | Headline selection, evidence balance, individual sentences and alternatives. |
 | H12 | Integrated draft and material remaining decisions. | Whole argument, cross-section consistency, displays, SI and open issues. |

@@ -17,6 +17,6 @@ Read the shared [interaction contract](../manuscript-workflow/references/contrac
 
 Read [section.md](references/section.md), the shared [writing style](../manuscript-workflow/references/writing-style.md), and the scoped [paragraph review](../manuscript-workflow/references/paragraph-review.md). Apply full-draft requirements only at their stated scope; the section reference preserves author overrides and binding-format conflicts.
 
-Use accepted Results, the motivating contribution and relevant prior evidence. Rebuild the synthesis when the underlying Results change materially, while preserving the requested edit scope.
+Use accepted Results, the stabilized figure interpretations, the motivating contribution and relevant prior evidence. In full-manuscript production, draft Discussion after H7–H9 so that interpretations, limitations and the ending reflect the actual evidence and Methods. Use the shared terminology table to preserve distinctions among findings, candidates, associations, predictions, functions and mechanisms. Rebuild the synthesis when the underlying Results or figures change materially, while preserving the requested edit scope.
 
 Verify that interpretations follow from reported findings, mixed outcomes retain their conditions, limitations identify concrete consequences, and the ending states a supported scientific consequence. Apply the contract’s review checkpoints to the requested unit, recheck affected dependencies and report only the verification actually completed.

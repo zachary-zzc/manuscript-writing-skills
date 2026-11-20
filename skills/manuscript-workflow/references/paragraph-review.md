@@ -23,6 +23,8 @@ Maintain one table for important research-field and activity labels, entities, a
 
 Audit in both directions: several names may unnecessarily suggest different concepts, while one broad name may collapse different objects, populations, measurements or evidence levels. Do not assume every variant is a synonym. Preserve distinctions between a scientific object, its computational representation and the metric assessing it, where those occur.
 
+For a new or full manuscript, create the table scaffold at H0 and complete its baseline at H1–H4. Use the same canonical terms in Results headings, figure and panel labels, captions, table headers, Methods definitions, SI headings and Abstract/title claims. Update the table's locations and decision status at H5–H9S and H11. Freeze it against the compiled package at H12. Section owners may extend the shared table, but should not create parallel glossaries.
+
 Choose terminology under the [writing guidance](writing-style.md#establish-the-scientific-story). Check that first-use definitions explain necessary unfamiliar concepts before later claims depend on them. Preserve original instruments, quotations and identifiers under the [source-preservation rules](../../manuscript-audit/references/audit.md#scope-evidence-and-findings); add a crosswalk when revised terminology differs from historical wording.
 
 ### 2. Paragraph reverse outline
