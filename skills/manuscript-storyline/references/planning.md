@@ -32,6 +32,8 @@ The term table is a working artifact, not a list of style preferences. H1–H4 e
 
 Read actual results and sources before recommendations. Prepare concrete evidence-backed artifacts before requesting a decision; do not ask the author to invent the story from an empty template.
 
+When developing a paper from an existing project, first reconcile its stated objective, planned comparisons, data versions, completed analyses, figures and validation records. Separate the original plan, observed results and proposed interpretations. If several paper arguments are plausible, compare each against the closest primary literature, its strongest supporting and contrary evidence, and the distinct question it would answer. For the leading argument, identify a competing explanation, the comparison that could distinguish them, and the result that would narrow or overturn the claim. Trace consequential conclusions to the actual analysis unit, denominator, effect size and uncertainty. Record missing evidence as a dependency; new analyses or data require their own authorization.
+
 | Checkpoint | Artifact and decision |
 |---|---|
 | **H1 Discovery + contribution** | Recommend the headline finding, decisive evidence, meaning and novelty status. Distinguish findings from method/resource contributions. Show alternatives only where supported. Confirm what the paper establishes and what leads. |
