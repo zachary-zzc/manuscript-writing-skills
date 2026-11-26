@@ -17,6 +17,10 @@ These are mandatory defaults for manuscript writing, idea and innovation framing
 8. **Open like a launch.** The Abstract and Introduction should move through problem → gap → idea or innovation → hardest result. Lead with the scientific need and the contribution, then show the strongest supported outcome.
 9. **Make the conclusion reinforce the memory.** Strengthen the central contribution and supported payoff. Do not introduce a sudden self-negation in the conclusion.
 
+## Comparison tables
+
+In main and supplementary tables, place the values for the conditions being compared side by side. Keep a difference column when it answers a distinct scientific question and its heading and caption make the calculation clear. State the direction and units of the difference. For a paired difference, identify what was matched and how the differences were averaged. Omit redundant or unclear columns. If the manuscript cites a secondary analysis whose column is removed, preserve its finding in a brief sentence with the comparison and its scope.
+
 ## Mandatory defensive-writing audit
 
 Whenever the user supplies manuscript text, inspect all defensive writing and report every instance. For each instance, provide:
