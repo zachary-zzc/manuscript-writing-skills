@@ -8,7 +8,7 @@ For a full audit or substantive manuscript revision, apply all three steps acros
 
 ### 1. Terminology table
 
-Maintain one table for important research-field and activity labels, entities, analytical units, methods, metrics and study conditions. Include only concepts present in the study.
+Maintain one internal terminology table for important research-field and activity labels, entities, analytical units, methods, metrics and study conditions. Include only concepts present in the study.
 
 | Field | Record and check |
 |---|---|
