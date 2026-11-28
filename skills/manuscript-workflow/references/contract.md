@@ -12,6 +12,12 @@ Use authoritative sources and preserve protected prose, artwork, raw records and
 
 For bounded section or paragraph work, preserve the accepted argument and unaffected material. Full or substantive whole-manuscript revision requires the [manuscript audit](../../manuscript-audit/SKILL.md) before rewriting. Do not turn a bounded edit into that full lifecycle. Audit-only requests remain audits.
 
+## Shared evaluation criteria and metrics
+
+For a direct comparison, describe each shared endpoint once. Use the same documented scoring criteria, unit of analysis, eligibility and denominator rules, treatment of missing observations, and aggregation for every method evaluated on that endpoint. The number of eligible observations can differ under a common rule. Carry the verified definition through the Methods, Results, figures, tables and Supplementary Information in scope.
+
+Before editing a comparison, trace what the evaluator judged and how the recorded decisions entered the metric. Differences in prompt wording, response format or score encoding alone do not establish different evaluation criteria. When the criteria or calculations actually differed, describe the difference and qualify the comparison. If the protocol, scoring records and author's account disagree on a point that affects interpretation, confirm that point with the author before revising the claim.
+
 ## Confirm the mode once
 
 Before substantive work on a new manuscript or a new revision task, obtain an interaction-mode choice. If none exists, explain Easy, Normal and Expert concisely and wait before drafting, revising or producing figures. Normal may be recommended; never silently select it. An explicit selection already confirms the mode: acknowledge it without asking again. Reuse the confirmed mode throughout the continuing task, including audits and context changes. Record scope, mode, decisions and pending items in the existing working record. A new task requires a choice unless the author established a standing preference.
